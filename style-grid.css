@@ -6,7 +6,7 @@
 }
 
 .container {
-    background: linear-gradient(#686A6C, #F1A23D);
+    background: linear-gradient(#C1CDCD, #009ACD);
     width: 100vw;
     height: 100vh;
     display: grid;
@@ -45,7 +45,7 @@ section {
 }
 
 .button-operations-right {
-    background-color: #F1A23D;
+    background-color: #00688B;
 }
 
 .button-numbers {
