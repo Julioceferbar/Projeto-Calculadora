@@ -60,6 +60,9 @@ section {
     border-top-left-radius: 6px;
     border-top-right-radius: 6px;
     grid-column: 1/5;
+    font-size: 30px;
+    color: white;
+    padding-left: 15px;
 }
 
 .zero {
